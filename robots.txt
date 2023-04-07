@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nicquet.github.io/images/sitemap.xml

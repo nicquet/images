@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nicolasjacquet",
+    "description": "",
+    "home_page_url": "https://nicquet.github.io/images",
+    "feed_url": "https://nicquet.github.io/images/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nicolasjacquet"
+    },
+    "items": [
+    ]
+}
